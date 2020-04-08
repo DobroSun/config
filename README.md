@@ -1,1 +1,3 @@
 #  my config
+-----
+# Cool
